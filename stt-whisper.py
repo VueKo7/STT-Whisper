@@ -4,7 +4,7 @@ from datetime import datetime, date
 
 class MySettings(BaseModel):
     required_int: int
-    optional_int: int = 69
+    optional_int: int = 69420
     required_str: str
     optional_str: str = "meow"
     required_date: date
